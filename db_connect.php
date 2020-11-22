@@ -1,6 +1,6 @@
 <?php
 // Connection variables
-// this code used in conjunction with midterm2.php
+// this code used in conjunction with secureLogin.php
 $hn = "localhost";
 $un = 'root';
 $pw = '';
